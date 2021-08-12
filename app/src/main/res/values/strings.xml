@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="pep">Pepperoni Pizza</string>
+    <string name="cook">Start Cooking!</string>
+    <string name="pizza">Pizza</string>
+    <string name="recipe">Recipes</string>
+    <string name="ingredient">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="welcome">Learn to create tasty dishes now!</string>
+    <string name="create">Cooking Notes</string>
+    <string name="sugar">2 tsp granulated sugar</string>
+    <string name="vinegar">1 tsp white vinegar</string>
+    <string name="salt">1 1/2 tsp salt</string>
+    <string name="oil">2 tsp granulated sugar</string>
+    <string name="water">2 tsp granulated sugar</string>
+    <string name="yeast">2 1/4 tsp active dry yeast</string>
+    <string name="flour">3 1/2 - 4 cups bread flour</string>
+    <string name="back">Back</string>
+    <string name="update">Update Cooking  Notes</string>
+    <string name="delete">Delete Cooking Notes</string>
+    <string name="add">Add Cooking Notes</string>
+    <string name="edit">Edit Cooking Notes</string>
+    <string name="retrieve">Get Cooking Notes</string>
+    <string name="content">Cooking Notes</string>
+    <string name="id">ID</string>
+    <string name="tvContent">Enter your Cooking notes here!</string>
+</resources>
